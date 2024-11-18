@@ -16,7 +16,7 @@ Esta app, desarrollada en Python, procesa imágenes aplicando métodos basados e
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[APP-FOR-IMAGE-PROCESSING-USING-PARTIAL-DERIVATIVES-AND-GRADIENT-FILTERS-IN-PYTHON](https://bryancarvajal24.github.io/APP-FOR-IMAGE-PROCESSING-USING-PARTIAL-DERIVATIVES-AND-GRADIENT-FILTERS/)
+[APP-FOR-IMAGE-PROCESSING-USING-PARTIAL-DERIVATIVES-AND-GRADIENT-FILTERS-IN-PYTHON](https://bryancarvajal24.github.io/APP-FOR-IMAGE-PROCESSING-USING-PARTIAL-DERIVATIVES-AND-GRADIENT-FILTERS-IN-PYTHON/)
 
 ## Instalación
 Este proyecto requiere **Python** y bibliotecas como **NumPy**, **Matplotlib** y **OpenCV**. Puedes utilizar las imágenes proporcionadas en el archivo ZIP para probar las funcionalidades de la app.
